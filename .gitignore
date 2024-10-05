@@ -1,0 +1,12 @@
+# Typescript
+node_modules
+
+# Rust
+target
+
+# Go
+bin
+
+# IDE
+.idea
+.vscode
